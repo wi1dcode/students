@@ -1,6 +1,6 @@
 const students = [
     {
-      name: ''
+      name: 'Jacky'
     }
   ]
   
